@@ -19,5 +19,14 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Academia-Numen/Test-JS-II.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Academia-Numen/Test-JS-II/issues"
+  },
+  "homepage": "https://github.com/Academia-Numen/Test-JS-II#readme"
 }
